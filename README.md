@@ -18,5 +18,7 @@ Apart from the AI method, the tool also includes a second method of summarizatio
 
 The app also handles errors well. If the user doesn’t enter any text or if something goes wrong while summarizing, it shows a warning or an error message. It also shows a spinner while the model is working, so users know the app is processing their request. This makes the app feel smooth and reliable. Overall, the Smart AI Text Summarization Tool is helpful for students, teachers, researchers, and anyone who wants to save time while reading long texts. It combines the power of modern AI and traditional methods to give users a flexible and easy solution. With a clean interface and quick results, it makes summarizing text a simple task for everyone, even if they don’t know anything about programming or artificial intelligence.
 
+*output*
 
+![Image](https://github.com/user-attachments/assets/19409f6f-b268-4ad6-a1fb-876eb3bcda82)
 
